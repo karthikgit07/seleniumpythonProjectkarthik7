@@ -1,0 +1,151 @@
+1655552332617	geckodriver	INFO	Listening on 127.0.0.1:61236
+1655552335712	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61237" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KARTHI~1\\AppData\\Local\\Temp\\rust_mozprofiles3gAyK"
+1655552337517	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:61237
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\KARTHI~1\\AppData\\Local\\Temp\\rust_mozprofiles3gAyK\\search.json.mozlz4", (void 0)))
+1655552343534	Marionette	INFO	Listening on port 61261
+Read port: 61261
+DevTools listening on ws://localhost:61237/devtools/browser/1ef75ddf-4291-4e9c-ac3e-ddbe05f38fff
+1655552343649	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+1655552351233	Marionette	INFO	Stopped listening on port 61261
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\KARTHI~1\AppData\Local\Temp\rust_mozprofiles3gAyK\protections.sqlite
+1655552371990	geckodriver	INFO	Listening on 127.0.0.1:61317
+1655552375061	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61318" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KARTHI~1\\AppData\\Local\\Temp\\rust_mozprofilekZKBJS"
+1655552377425	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:61318
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\KARTHI~1\\AppData\\Local\\Temp\\rust_mozprofilekZKBJS\\search.json.mozlz4", (void 0)))
+1655552383892	Marionette	INFO	Listening on port 61347
+Read port: 61347
+1655552383982	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:61318/devtools/browser/0cced5f0-29d1-4968-a789-1f7d4cfb00f2
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+1655552389145	Marionette	INFO	Stopped listening on port 61347
+[Parent 23356, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\KARTHI~1\AppData\Local\Temp\rust_mozprofilekZKBJS\protections.sqlite
+1655552449071	geckodriver	INFO	Listening on 127.0.0.1:61494
+1655552452163	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61495" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KARTHI~1\\AppData\\Local\\Temp\\rust_mozprofile1nsXfH"
+1655552453925	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:61495
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\KARTHI~1\\AppData\\Local\\Temp\\rust_mozprofile1nsXfH\\search.json.mozlz4", (void 0)))
+1655552459930	Marionette	INFO	Listening on port 61533
+Read port: 61533
+DevTools listening on ws://localhost:61495/devtools/browser/b4f7ca4f-0b44-4caf-b5c3-42b3974a03a6
+1655552460032	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+1655552470941	Marionette	INFO	Stopped listening on port 61533
+[Parent 29252, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1 line 2 > eval line 2293 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PNecko::Msg_PredLearn) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1655553126653	geckodriver	INFO	Listening on 127.0.0.1:61708
+1655553129642	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61709" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KARTHI~1\\AppData\\Local\\Temp\\rust_mozprofilenezYcu"
+1655553131571	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:61709
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\KARTHI~1\\AppData\\Local\\Temp\\rust_mozprofilenezYcu\\search.json.mozlz4", (void 0)))
+1655553137145	Marionette	INFO	Listening on port 61733
+DevTools listening on ws://localhost:61709/devtools/browser/cecdaa29-8b72-4a7d-9f67-de30eb3b9012
+Read port: 61733
+1655553137286	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1 line 2 > eval line 7472 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1655553146370	Marionette	INFO	Stopped listening on port 61733
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1655629419779	geckodriver	INFO	Listening on 127.0.0.1:62157
+1655629422793	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62158" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KARTHI~1\\AppData\\Local\\Temp\\rust_mozprofileutXMMS"
+1655629424852	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:62158
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\KARTHI~1\\AppData\\Local\\Temp\\rust_mozprofileutXMMS\\search.json.mozlz4", (void 0)))
+1655629432918	Marionette	INFO	Listening on port 62190
+DevTools listening on ws://localhost:62158/devtools/browser/2ddc1e95-df25-4852-ac6c-5679f16595c6
+Read port: 62190
+1655629433651	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1 line 2 > eval line 4702 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1655629442708	Marionette	INFO	Stopped listening on port 62190
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+

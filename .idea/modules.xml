@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://E:/3.TASK/Web_Driver_Manager_DemoProject/.idea/Web_Driver_Manager_DemoProject.iml" filepath="E:/3.TASK/Web_Driver_Manager_DemoProject/.idea/Web_Driver_Manager_DemoProject.iml" />
+      <module fileurl="file://E:/pythonPraveen/.idea/pythonPraveen.iml" filepath="E:/pythonPraveen/.idea/pythonPraveen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/seleniumpythonProjectkarthik.iml" filepath="$PROJECT_DIR$/.idea/seleniumpythonProjectkarthik.iml" />
+    </modules>
+  </component>
+</project>
